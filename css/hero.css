@@ -1,0 +1,62 @@
+body{
+	margin: 0;
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	
+}
+
+/* header */
+header{
+	background-color: #4c2882;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-size: 30px;
+	font-family: 'Fredericka the Great', sans-serif;
+}
+header h3{
+	color: white;
+	font-size: 15px;
+	line-height: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header img{
+	max-width: 250px;
+}
+
+/* main */
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 30px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	color: #4c2882;
+	font-size: 30px;
+	font-family: 'Fredericka the Great', sans-serif;
+}
+
+
+/* links */
+a{
+	color: #4c2882;
+}
+a:hover{
+	color: #fb7a98;
+}
+
+footer{
+	background-color: #4c2882;
+	padding: 20px 20px;
+	color: white;
+}
